@@ -3,8 +3,8 @@ const swiper = new Swiper('.swiper', {
   // Optional parameters
   direction: 'horizontal',
   loop: true,
-  speed: 700,
-  spaceBetween: 500,
+  speed: 600,
+  spaceBetween: 0,
   breakpoints: {
     1120: {
       direction: 'vertical',
@@ -12,7 +12,7 @@ const swiper = new Swiper('.swiper', {
   },
 
   autoplay: {
-    delay: 2000,
+    delay: 3000,
   },
 
   // If we need pagination

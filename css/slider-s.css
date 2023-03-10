@@ -99,12 +99,12 @@
 @media (min-width: 1120px) {
   .slider-s .container .swiper .swiper-pagination {
     height: 100%;
-    right: 1rem;
+    right: 1.5rem;
   }
 }
 .slider-s .container .swiper .swiper-pagination .swiper-pagination-bullet {
-  width: 14px;
-  height: 14px;
+  width: 15px;
+  height: 15px;
   background-color: #fff;
   border: solid 1px #777;
 }

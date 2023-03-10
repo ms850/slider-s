@@ -96,15 +96,15 @@
       }
       .swiper-button-prev, .swiper-button-next {
         opacity: 0;
-    }
-    .swiper-pagination {
+      }
+      .swiper-pagination {
         @media (min-width: 1120px) {
           height: 100%;
-          right: 1rem;
+          right: 1.5rem;
         }
         .swiper-pagination-bullet {
-          width: 14px;
-          height: 14px;
+          width: 15px;
+          height: 15px;
           background-color: #fff;
           border: solid 1px #777;
         }
